@@ -1,7 +1,7 @@
 ## AWS
 
 * Criar um backet no S3
-* Criar a job no Glue utilizando (Spark scriipt editor)
+* Criar a job no Glue utilizando (Spark script editor)
 * Criar a politica de acesso (IAM Role) no Glue para ter acesso ao Amazon S3 (bucket)
 
 
